@@ -11,7 +11,7 @@ Je suis un développeur passionné par le web . J'aime travailler sur des projet
 
 ## Statistiques
 
-[![Votre Statistique](https://github-readme-stats.vercel.app/api?username=agoglodan-antoine &show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=agoglodan-antoine&show_icons=true&theme=dark)
 
 ## Contact
 - Facebook : [AGOGLODAN S. Antoine Nicaise](https://www.facebook.com/antoine.agoglodan.9)
