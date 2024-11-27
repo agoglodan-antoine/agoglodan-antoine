@@ -22,7 +22,7 @@ Je suis un développeur passionné par le web . J'aime travailler sur des projet
 ## Compétences techniques
 
 - Langages : HTML, CSS, JavaScript, PHP, SQL
-- Outils : Git, visual studio code, wamp serveur 
+- Outils : Git, visual studio code, wamp serveur, ... 
 - 
 
 <!---
